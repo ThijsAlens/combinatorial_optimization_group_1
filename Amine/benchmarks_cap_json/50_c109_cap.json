@@ -1,0 +1,775 @@
+{
+  "name": "50_c109",
+  "k": 3,
+  "v": 10,
+  "N": 50,
+  "t": 1,
+  "D": 0.0,
+  "Q": 22,
+  "Tmax": 1236.0,
+  "nodes": [
+    {
+      "i": 0,
+      "x": 40.0,
+      "y": 50.0,
+      "service": 0.0,
+      "profit": 0.0,
+      "tw_open": 0.0,
+      "tw_close": 1236.0,
+      "f": 0,
+      "a": 0,
+      "aux_list": [],
+      "demand": 0
+    },
+    {
+      "i": 1,
+      "x": 45.0,
+      "y": 68.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 760.0,
+      "tw_close": 1120.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 5
+    },
+    {
+      "i": 2,
+      "x": 45.0,
+      "y": 70.0,
+      "service": 90.0,
+      "profit": 30.0,
+      "tw_open": 668.0,
+      "tw_close": 1028.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 8
+    },
+    {
+      "i": 3,
+      "x": 42.0,
+      "y": 66.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 16.0,
+      "tw_close": 376.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 4
+    },
+    {
+      "i": 4,
+      "x": 42.0,
+      "y": 68.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 575.0,
+      "tw_close": 935.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 3
+    },
+    {
+      "i": 5,
+      "x": 42.0,
+      "y": 65.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 15.0,
+      "tw_close": 375.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 1
+    },
+    {
+      "i": 6,
+      "x": 40.0,
+      "y": 69.0,
+      "service": 90.0,
+      "profit": 20.0,
+      "tw_open": 482.0,
+      "tw_close": 842.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 5
+    },
+    {
+      "i": 7,
+      "x": 40.0,
+      "y": 66.0,
+      "service": 90.0,
+      "profit": 20.0,
+      "tw_open": 18.0,
+      "tw_close": 378.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 9
+    },
+    {
+      "i": 8,
+      "x": 38.0,
+      "y": 68.0,
+      "service": 90.0,
+      "profit": 20.0,
+      "tw_open": 110.0,
+      "tw_close": 470.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 5
+    },
+    {
+      "i": 9,
+      "x": 38.0,
+      "y": 70.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 390.0,
+      "tw_close": 750.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 3
+    },
+    {
+      "i": 10,
+      "x": 35.0,
+      "y": 66.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 204.0,
+      "tw_close": 564.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 4
+    },
+    {
+      "i": 11,
+      "x": 35.0,
+      "y": 69.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 297.0,
+      "tw_close": 657.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 1
+    },
+    {
+      "i": 12,
+      "x": 25.0,
+      "y": 85.0,
+      "service": 90.0,
+      "profit": 20.0,
+      "tw_open": 507.0,
+      "tw_close": 867.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 2
+    },
+    {
+      "i": 13,
+      "x": 22.0,
+      "y": 75.0,
+      "service": 90.0,
+      "profit": 30.0,
+      "tw_open": 30.0,
+      "tw_close": 390.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 2
+    },
+    {
+      "i": 14,
+      "x": 22.0,
+      "y": 85.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 414.0,
+      "tw_close": 774.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 3
+    },
+    {
+      "i": 15,
+      "x": 20.0,
+      "y": 80.0,
+      "service": 90.0,
+      "profit": 40.0,
+      "tw_open": 227.0,
+      "tw_close": 587.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 10
+    },
+    {
+      "i": 16,
+      "x": 20.0,
+      "y": 85.0,
+      "service": 90.0,
+      "profit": 40.0,
+      "tw_open": 322.0,
+      "tw_close": 682.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 9
+    },
+    {
+      "i": 17,
+      "x": 18.0,
+      "y": 75.0,
+      "service": 90.0,
+      "profit": 20.0,
+      "tw_open": 33.0,
+      "tw_close": 393.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 8
+    },
+    {
+      "i": 18,
+      "x": 15.0,
+      "y": 75.0,
+      "service": 90.0,
+      "profit": 20.0,
+      "tw_open": 37.0,
+      "tw_close": 397.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 10
+    },
+    {
+      "i": 19,
+      "x": 15.0,
+      "y": 80.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 132.0,
+      "tw_close": 492.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 4
+    },
+    {
+      "i": 20,
+      "x": 30.0,
+      "y": 50.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 10.0,
+      "tw_close": 370.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 4
+    },
+    {
+      "i": 21,
+      "x": 30.0,
+      "y": 52.0,
+      "service": 90.0,
+      "profit": 20.0,
+      "tw_open": 760.0,
+      "tw_close": 1120.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 1
+    },
+    {
+      "i": 22,
+      "x": 28.0,
+      "y": 52.0,
+      "service": 90.0,
+      "profit": 20.0,
+      "tw_open": 668.0,
+      "tw_close": 1028.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 5
+    },
+    {
+      "i": 23,
+      "x": 28.0,
+      "y": 55.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 575.0,
+      "tw_close": 935.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 6
+    },
+    {
+      "i": 24,
+      "x": 25.0,
+      "y": 50.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 15.0,
+      "tw_close": 375.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 4
+    },
+    {
+      "i": 25,
+      "x": 25.0,
+      "y": 52.0,
+      "service": 90.0,
+      "profit": 40.0,
+      "tw_open": 17.0,
+      "tw_close": 377.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 7
+    },
+    {
+      "i": 26,
+      "x": 25.0,
+      "y": 55.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 482.0,
+      "tw_close": 842.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 4
+    },
+    {
+      "i": 27,
+      "x": 23.0,
+      "y": 52.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 109.0,
+      "tw_close": 469.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 5
+    },
+    {
+      "i": 28,
+      "x": 23.0,
+      "y": 55.0,
+      "service": 90.0,
+      "profit": 20.0,
+      "tw_open": 390.0,
+      "tw_close": 750.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 7
+    },
+    {
+      "i": 29,
+      "x": 20.0,
+      "y": 50.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 202.0,
+      "tw_close": 562.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 7
+    },
+    {
+      "i": 30,
+      "x": 20.0,
+      "y": 55.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 297.0,
+      "tw_close": 657.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 8
+    },
+    {
+      "i": 31,
+      "x": 10.0,
+      "y": 35.0,
+      "service": 90.0,
+      "profit": 20.0,
+      "tw_open": 39.0,
+      "tw_close": 399.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 7
+    },
+    {
+      "i": 32,
+      "x": 10.0,
+      "y": 40.0,
+      "service": 90.0,
+      "profit": 30.0,
+      "tw_open": 31.0,
+      "tw_close": 391.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 4
+    },
+    {
+      "i": 33,
+      "x": 8.0,
+      "y": 40.0,
+      "service": 90.0,
+      "profit": 40.0,
+      "tw_open": 33.0,
+      "tw_close": 393.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 3
+    },
+    {
+      "i": 34,
+      "x": 8.0,
+      "y": 45.0,
+      "service": 90.0,
+      "profit": 20.0,
+      "tw_open": 604.0,
+      "tw_close": 964.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 2
+    },
+    {
+      "i": 35,
+      "x": 5.0,
+      "y": 35.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 134.0,
+      "tw_close": 494.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 4
+    },
+    {
+      "i": 36,
+      "x": 5.0,
+      "y": 45.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 511.0,
+      "tw_close": 871.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 8
+    },
+    {
+      "i": 37,
+      "x": 2.0,
+      "y": 40.0,
+      "service": 90.0,
+      "profit": 20.0,
+      "tw_open": 229.0,
+      "tw_close": 589.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 9
+    },
+    {
+      "i": 38,
+      "x": 0.0,
+      "y": 40.0,
+      "service": 90.0,
+      "profit": 30.0,
+      "tw_open": 321.0,
+      "tw_close": 681.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 5
+    },
+    {
+      "i": 39,
+      "x": 0.0,
+      "y": 45.0,
+      "service": 90.0,
+      "profit": 20.0,
+      "tw_open": 416.0,
+      "tw_close": 776.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 1
+    },
+    {
+      "i": 40,
+      "x": 35.0,
+      "y": 30.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 113.0,
+      "tw_close": 473.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 10
+    },
+    {
+      "i": 41,
+      "x": 35.0,
+      "y": 32.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 21.0,
+      "tw_close": 381.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 9
+    },
+    {
+      "i": 42,
+      "x": 33.0,
+      "y": 32.0,
+      "service": 90.0,
+      "profit": 20.0,
+      "tw_open": 19.0,
+      "tw_close": 379.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 5
+    },
+    {
+      "i": 43,
+      "x": 33.0,
+      "y": 35.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 16.0,
+      "tw_close": 376.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 7
+    },
+    {
+      "i": 44,
+      "x": 32.0,
+      "y": 30.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 206.0,
+      "tw_close": 566.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 1
+    },
+    {
+      "i": 45,
+      "x": 30.0,
+      "y": 30.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 391.0,
+      "tw_close": 751.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 5
+    },
+    {
+      "i": 46,
+      "x": 30.0,
+      "y": 32.0,
+      "service": 90.0,
+      "profit": 30.0,
+      "tw_open": 299.0,
+      "tw_close": 659.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 8
+    },
+    {
+      "i": 47,
+      "x": 30.0,
+      "y": 35.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 767.0,
+      "tw_close": 1127.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 8
+    },
+    {
+      "i": 48,
+      "x": 28.0,
+      "y": 30.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 483.0,
+      "tw_close": 843.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 10
+    },
+    {
+      "i": 49,
+      "x": 28.0,
+      "y": 35.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 766.0,
+      "tw_close": 1126.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 6
+    },
+    {
+      "i": 50,
+      "x": 26.0,
+      "y": 32.0,
+      "service": 90.0,
+      "profit": 10.0,
+      "tw_open": 668.0,
+      "tw_close": 1028.0,
+      "f": 1,
+      "a": 1,
+      "aux_list": [
+        1
+      ],
+      "demand": 5
+    }
+  ]
+}
