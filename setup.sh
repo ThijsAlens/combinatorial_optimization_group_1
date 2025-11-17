@@ -18,7 +18,7 @@ if ! command -v python3 &> /dev/null; then
     fi
 fi
 
-# Check version (optional but recommended)
+# Check version
 echo "Using Python: $($PY_CMD --version)"
 
 # --- 2. Create the virtual environment ---
@@ -45,5 +45,5 @@ echo "Installing requirements..."
 pip install -r requirements.txt
 
 echo "---"
-echo "Setup complete. The 'venv' is now active."
+echo "Setup complete :)."
 echo "---"
